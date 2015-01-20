@@ -1,0 +1,10 @@
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Entidad\bin\Debug\Entidad.dll
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.dll
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.pdb
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Entidad\bin\Debug\Entidad.dll
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Entidad\bin\Debug\Entidad.pdb
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.dll
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Entidad\obj\Debug\Entidad.pdb

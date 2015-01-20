@@ -1,0 +1,14 @@
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\bin\Debug\Datos.dll
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\bin\Debug\Datos.pdb
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\bin\Debug\Entidad.dll
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\bin\Debug\Entidad.pdb
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.dll
+C:\Users\Chuck\Desktop\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.pdb
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\bin\Debug\Datos.dll
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\bin\Debug\Datos.pdb
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\bin\Debug\Entidad.dll
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\bin\Debug\Entidad.pdb
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.dll
+C:\Users\azuretools\Desktop\Market-2.0\Market 2.0\SistemaVenta\Datos\obj\Debug\Datos.pdb
